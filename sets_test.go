@@ -1,14 +1,14 @@
-package set_test
+package sets_test
 
 import (
 	"testing"
 
-	"github.com/krelinga/go-set"
+	"github.com/krelinga/go-sets"
 )
 
 func TestSet(t *testing.T) {
 	// Create a new set
-	s := set.New[int]()
+	s := sets.New[int]()
 
 	// Add items to the set
 	s.Add(1)

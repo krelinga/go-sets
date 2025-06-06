@@ -1,5 +1,5 @@
-// The Set package provides a type-agnostic Set data structure.
-package set
+// The Sets package provides a type-agnostic Set data structure.
+package sets
 
 import (
 	"iter"

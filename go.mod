@@ -1,4 +1,4 @@
-module github.com/krelinga/go-set
+module github.com/krelinga/go-sets
 
 go 1.24.3
 
